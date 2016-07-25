@@ -6,6 +6,8 @@ iOS Chat TableView Sample
 
 This is iMessage Style Source Code of iPhone.
 
+![https://github.com/devjin0617/iOS-ChatTableView-CTTableView-Sample-SourceCode/blob/master/ios_chat.png?raw=true](https://github.com/devjin0617/iOS-ChatTableView-CTTableView-Sample-SourceCode/blob/master/ios_chat.png?raw=true)
+
 Use
 ===
 
